@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PageTransformerHelp-master.iml" filepath="$PROJECT_DIR$/PageTransformerHelp-master.iml" />
+      <module fileurl="file://E:\demo animation\PageTransformerHelp-master\VariationViewPager.iml" filepath="E:\demo animation\PageTransformerHelp-master\VariationViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\demo animation\PageTransformerHelp-master\app\app.iml" filepath="E:\demo animation\PageTransformerHelp-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagetransformerhelp/pagetransformerhelp.iml" filepath="$PROJECT_DIR$/pagetransformerhelp/pagetransformerhelp.iml" />
+      <module fileurl="file://E:\demo animation\PageTransformerHelp-master\pagetransformerhelp\pagetransformerhelp.iml" filepath="E:\demo animation\PageTransformerHelp-master\pagetransformerhelp\pagetransformerhelp.iml" />
+    </modules>
+  </component>
+</project>
